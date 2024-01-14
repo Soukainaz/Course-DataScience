@@ -1,0 +1,1 @@
+You can check the following link for a better understanding of the spam detection and ozone use-cases: https://leather-step-94e.notion.site/Deep-Learning-Applications-Project-8b309b317a54434697d6ead285aea049?pvs=4
