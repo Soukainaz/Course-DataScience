@@ -1,0 +1,1 @@
+Within this repository, you'll find a collection of projects I accomplished throughout my engineering studies at Ecole Centrale. Delve into a varied range of assignments that incorporate fundamental use cases and in-depth analyses, offering a glimpse into practical applications of data science concepts.
